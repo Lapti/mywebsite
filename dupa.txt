@@ -1,0 +1,13 @@
+diff --git a/examples/jumbotron/index.html b/examples/jumbotron/index.html
+index d14c85d..37fe59d 100644
+--- a/examples/jumbotron/index.html
++++ b/examples/jumbotron/index.html
+@@ -82,7 +82,7 @@
+       <hr>
+ 
+       <footer>
+-        <p>&copy; Company, Inc.</p>
++        <p>&copy; 2123 Company, Inc.</p>
+       </footer>
+     </div> <!-- /container -->
+ 
